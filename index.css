@@ -34,13 +34,13 @@ justify-content: space-evenly;
 
 .add-1{
     color:#cccccc;
-    font-size: 0.85 rem;
+    font-size: 0.85rem;
     margin-left: 15px;
 }
 
 .add-2
 {
-    font-size: 1 rem;
+    font-size: 1rem;
     margin-left: 3px;
 
 }
@@ -88,7 +88,7 @@ justify-content: space-evenly;
 }
 /**box 4 **/
 span{
-    font: size 0.7rem; 
+    font-size:  0.7rem; 
 }
 .nav-second{
     font-size: 0.85rem;
